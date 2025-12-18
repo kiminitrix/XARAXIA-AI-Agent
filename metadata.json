@@ -1,0 +1,8 @@
+{
+  "name": "XARAXIA AI Agent Platform",
+  "description": "An innovative AI Agent platform designed to automate complex digital tasks, manage personal knowledge bases, and interact with external tools through an intuitive interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
